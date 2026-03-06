@@ -1,0 +1,715 @@
+{
+    "Göz & Dudak Bakım": [
+        "Göz Kremi",
+        "Dudak Bakım",
+        "Serumlar",
+        "Göz Makyaj Temizleyici",
+        "Takma Kirpik",
+        "Göz Kalemi",
+        "Eyeliner",
+        "Maskara",
+        "Göz Farı",
+        "Dudak Kalemi",
+        "Ruj",
+        "Dudak Parlatıcısı"
+    ],
+    "EDP Parfüm": [
+        "Deodorant",
+        "Roll-On",
+        "Kolonya",
+        "Oda Kokusu",
+        "Saç Parfümü"
+    ],
+    "EDT Parfüm": [
+        "Deodorant",
+        "Roll-On",
+        "Kolonya",
+        "Oda Kokusu",
+        "Saç Parfümü"
+    ],
+    "Deo Stick": [
+        "Deodorant",
+        "Roll-On",
+        "Kolonya"
+    ],
+    "Saç Spreyi": [
+        "Saç Jölesi",
+        "Saç Köpüğü",
+        "Saç Serumu",
+        "Saç Maskesi",
+        "Saç Kremi",
+        "Şampuan",
+        "Saç Bakım Yağları"
+    ],
+    "Ağda Bantları": [
+        "Ağda Malzemeleri",
+        "Roll-On Ağdalar",
+        "Kavanoz Ağdalar",
+        "Wax",
+        "Tüy Dökücüler",
+        "Tüy Sarartıcılar"
+    ],
+    "Tırnak Bakım": [
+        "Oje",
+        "Aseton",
+        "Takma Tırnak"
+    ],
+    "Hijyenik Pedler": [
+        "Günlük Pedler",
+        "Tampon"
+    ],
+    "Diş Fırçaları": [
+        "Diş Macunları",
+        "Ağız Suları",
+        "Diş İpleri"
+    ],
+    "Deodorant": [
+        "Deo Stick",
+        "Roll-On",
+        "Kolonya",
+        "EDP Parfüm",
+        "EDT Parfüm"
+    ],
+    "Gündüz Kremi": [
+        "Göz Kremi",
+        "Serumlar",
+        "Tonik",
+        "Nemlendirici Krem",
+        "Nemlendirici",
+        "BB Krem",
+        "CC Krem"
+    ],
+    "Ağız Suları": [
+        "Diş Fırçaları",
+        "Diş Macunları",
+        "Diş İpleri"
+    ],
+    "Saç Kremi": [
+        "Şampuan",
+        "Saç Maskesi",
+        "Saç Bakım Yağları",
+        "Saç Serumu"
+    ],
+    "Güneş Ürünleri": [
+        "Nemlendirici Krem",
+        "Vücut Losyonu",
+        "Vücut Yağı",
+        "Peeling"
+    ],
+    "Duş Jelleri": [
+        "Vücut Losyonu",
+        "Vücut Şampuanı",
+        "Sıvı Sabun",
+        "Kalıp Sabun",
+        "Banyo Aksesuarları"
+    ],
+    "Diş Macunları": [
+        "Diş Fırçaları",
+        "Ağız Suları",
+        "Diş İpleri"
+    ],
+    "Aseton": [
+        "Oje",
+        "Tırnak Bakım"
+    ],
+    "Nemlendirici Krem": [
+        "Gündüz Kremi",
+        "Gece Kremi",
+        "Serumlar",
+        "Tonik",
+        "Nemlendirici",
+        "Peeling"
+    ],
+    "Saç Maskesi": [
+        "Şampuan",
+        "Saç Kremi",
+        "Saç Bakım Yağları",
+        "Saç Serumu"
+    ],
+    "Tüy Dökücüler": [
+        "Ağda Bantları",
+        "Roll-On Ağdalar",
+        "Kavanoz Ağdalar",
+        "Wax",
+        "Tüy Sarartıcılar"
+    ],
+    "Göz Kremi": [
+        "Gündüz Kremi",
+        "Gece Kremi",
+        "Serumlar"
+    ],
+    "Nemlendirici": [
+        "Gündüz Kremi",
+        "Gece Kremi",
+        "Serumlar",
+        "Tonik"
+    ],
+    "Gece Kremi": [
+        "Gündüz Kremi",
+        "Göz Kremi",
+        "Serumlar",
+        "Nemlendirici"
+    ],
+    "Maskeler": [
+        "Peeling",
+        "Temizleyici & Peeling",
+        "Temizleme Köpüğü",
+        "Temizleme Jeli",
+        "Temizleme Sütü"
+    ],
+    "Takma Kirpik": [
+        "Göz Kalemi",
+        "Eyeliner",
+        "Maskara",
+        "Göz Makyaj Temizleyici",
+        "Makyaj Aksesuarları"
+    ],
+    "Makyaj Aksesuarları": [
+        "Fondöten",
+        "Kapatıcı",
+        "Pudra",
+        "Makyaj Bazı",
+        "Makyaj Sabitleyici",
+        "Ruj",
+        "Dudak Parlatıcısı"
+    ],
+    "Serumlar": [
+        "Gündüz Kremi",
+        "Gece Kremi",
+        "Göz Kremi",
+        "Nemlendirici",
+        "Tonik"
+    ],
+    "Günlük Pedler": [
+        "Hijyenik Pedler",
+        "Tampon"
+    ],
+    "Dudak Bakım": [
+        "Dudak Kalemi",
+        "Ruj",
+        "Dudak Parlatıcısı"
+    ],
+    "Şampuan": [
+        "Saç Kremi",
+        "Saç Maskesi",
+        "Saç Bakım Yağları",
+        "Saç Serumu"
+    ],
+    "Kolonya": [
+        "EDP Parfüm",
+        "EDT Parfüm",
+        "Deodorant",
+        "Roll-On",
+        "Bebek Kolonyası"
+    ],
+    "Kit Boyalar": [
+        "Tüp Boyalar",
+        "Peroksitler",
+        "Saç Boyama Malzemesi"
+    ],
+    "Eyeliner": [
+        "Göz Kalemi",
+        "Maskara",
+        "Göz Farı",
+        "Takma Kirpik"
+    ],
+    "Allık": [
+        "Fondöten",
+        "Pudra",
+        "Makyaj Bazı"
+    ],
+    "Kapatıcı": [
+        "Fondöten",
+        "Pudra",
+        "Makyaj Bazı"
+    ],
+    "Göz Farı": [
+        "Eyeliner",
+        "Göz Kalemi",
+        "Maskara",
+        "Takma Kirpik"
+    ],
+    "Fondöten": [
+        "Makyaj Bazı",
+        "Kapatıcı",
+        "Pudra",
+        "Allık",
+        "Aydınlatıcı",
+        "Makyaj Sabitleyici"
+    ],
+    "Maskara": [
+        "Eyeliner",
+        "Göz Kalemi",
+        "Göz Farı",
+        "Takma Kirpik"
+    ],
+    "Dudak Parlatıcısı": [
+        "Dudak Bakım",
+        "Ruj",
+        "Dudak Kalemi"
+    ],
+    "Oje": [
+        "Aseton",
+        "Tırnak Bakım"
+    ],
+    "BB Krem": [
+        "Gündüz Kremi",
+        "CC Krem",
+        "Fondöten"
+    ],
+    "Kaş": [
+        "Göz Kalemi",
+        "Eyeliner",
+        "Makyaj Aksesuarları"
+    ],
+    "Pudra": [
+        "Fondöten",
+        "Kapatıcı",
+        "Allık",
+        "Makyaj Bazı"
+    ],
+    "Temizleme Köpüğü": [
+        "Temizleme Jeli",
+        "Temizleme Sütü",
+        "Temizleme Suyu",
+        "Maskeler"
+    ],
+    "Banyo Aksesuarları": [
+        "Duş Jelleri",
+        "Vücut Losyonu",
+        "Vücut Şampuanı"
+    ],
+    "El Bakım": [
+        "Nemlendirici Krem",
+        "Peeling"
+    ],
+    "Tıraş Jeli": [
+        "Tıraş Kremi",
+        "After Shave Losyon",
+        "After Shave Balsam",
+        "Tıraş Köpüğü"
+    ],
+    "Saç Jölesi": [
+        "Saç Spreyi",
+        "Saç Köpüğü",
+        "Saç Serumu"
+    ],
+    "Cinsel Sağlık Ürünleri": [
+        "Genital Bölge Temizlik ve Bakım Ürünleri"
+    ],
+    "Ayak Bakım": [
+        "Peeling",
+        "Nemlendirici Krem"
+    ],
+    "Saç Köpüğü": [
+        "Saç Spreyi",
+        "Saç Jölesi",
+        "Saç Serumu"
+    ],
+    "Saç Bakım Yağları": [
+        "Şampuan",
+        "Saç Kremi",
+        "Saç Maskesi",
+        "Saç Serumu"
+    ],
+    "Sağlık Ürünleri": [
+        "Akne Bakım",
+        "Leke Bakım Ürünleri",
+        "Pişik Kremi",
+        "Selülit Ürünleri"
+    ],
+    "Tarak ve Fırça": [
+        "Saç Spreyi",
+        "Saç Jölesi",
+        "Saç Köpüğü",
+        "Saç Serumu"
+    ],
+    "Bebek Kolonyası": [
+        "Kolonya",
+        "Bebek Yağı"
+    ],
+    "Temizleme Jeli": [
+        "Temizleme Köpüğü",
+        "Temizleme Sütü",
+        "Temizleme Suyu",
+        "Maskeler"
+    ],
+    "Göz Kalemi": [
+        "Eyeliner",
+        "Maskara",
+        "Göz Farı",
+        "Takma Kirpik"
+    ],
+    "Ruj": [
+        "Dudak Kalemi",
+        "Dudak Parlatıcısı",
+        "Dudak Bakım"
+    ],
+    "Beyaz Saç Kapatıcılar": [
+        "Erkek Saç Boyaları",
+        "Saç Renk Açıcılar"
+    ],
+    "Tüp Boyalar": [
+        "Kit Boyalar",
+        "Peroksitler",
+        "Saç Boyama Malzemesi"
+    ],
+    "Vücut Losyonu": [
+        "Vücut Şampuanı",
+        "Vücut Yağı",
+        "Peeling"
+    ],
+    "Tıraş Köpüğü": [
+        "Tıraş Jeli",
+        "Tıraş Kremi",
+        "After Shave Losyon",
+        "After Shave Balsam"
+    ],
+    "Kadın Tıraş Bıçakları": [
+        "Yedek Tıraş Bıçakları",
+        "Tıraş Makinesi",
+        "Kullan At Tıraş Bıçakları"
+    ],
+    "Tonik": [
+        "Gündüz Kremi",
+        "Gece Kremi",
+        "Serumlar",
+        "Nemlendirici"
+    ],
+    "Kuru Şampuan": [
+        "Saç Spreyi",
+        "Saç Jölesi",
+        "Saç Köpüğü"
+    ],
+    "CC Krem": [
+        "Gündüz Kremi",
+        "BB Krem",
+        "Fondöten"
+    ],
+    "Aydınlatıcı": [
+        "Fondöten",
+        "Pudra",
+        "Makyaj Bazı"
+    ],
+    "Natural Boyalar": [
+        "Kit Boyalar",
+        "Tüp Boyalar",
+        "Peroksitler"
+    ],
+    "Temizleme Mendili": [
+        "Temizleme Köpüğü",
+        "Temizleme Jeli",
+        "Temizleme Sütü",
+        "Temizleme Suyu"
+    ],
+    "Sıvı Sabun": [
+        "Duş Jelleri",
+        "Vücut Şampuanı",
+        "Kalıp Sabun"
+    ],
+    "After Shave Losyon": [
+        "Tıraş Jeli",
+        "Tıraş Köpüğü",
+        "After Shave Balsam"
+    ],
+    "Duş Jeli": [
+        "Duş Jelleri",
+        "Vücut Losyonu",
+        "Vücut Şampuanı"
+    ],
+    "Bebek Şampuanı": [
+        "Bebek Sabunu",
+        "Bebek Yağı"
+    ],
+    "Islak Mendil": [
+        "Temizleme Mendili"
+    ],
+    "Roll-On": [
+        "Deodorant",
+        "Deo Stick",
+        "Kolonya"
+    ],
+    "Peeling": [
+        "Maskeler",
+        "Nemlendirici Krem",
+        "El Bakım",
+        "Ayak Bakım",
+        "Temizleyici & Peeling"
+    ],
+    "Kalıp Sabun": [
+        "Sıvı Sabun",
+        "Duş Jelleri"
+    ],
+    "Diğer Saç Bakım Ürünleri": [
+        "Saç Serumu",
+        "Saç Maskesi",
+        "Saç Bakım Yağları"
+    ],
+    "Setler": [
+        "Makyaj Aksesuarları",
+        "Saç Boyama Malzemesi",
+        "Kit Boyalar"
+    ],
+    "Saç Serumu": [
+        "Şampuan",
+        "Saç Kremi",
+        "Saç Maskesi",
+        "Saç Bakım Yağları"
+    ],
+    "Oda Kokusu": [
+        "EDP Parfüm",
+        "EDT Parfüm",
+        "Kolonya"
+    ],
+    "Ağda Malzemeleri": [
+        "Ağda Bantları",
+        "Roll-On Ağdalar",
+        "Kavanoz Ağdalar",
+        "Wax"
+    ],
+    "Roll-On Ağdalar": [
+        "Ağda Bantları",
+        "Ağda Malzemeleri",
+        "Kavanoz Ağdalar",
+        "Wax"
+    ],
+    "Makyaj Bazı": [
+        "Fondöten",
+        "Kapatıcı",
+        "Pudra",
+        "Aydınlatıcı"
+    ],
+    "Peroksitler": [
+        "Kit Boyalar",
+        "Tüp Boyalar",
+        "Natural Boyalar"
+    ],
+    "After Shave Balsam": [
+        "After Shave Losyon",
+        "Tıraş Jeli",
+        "Tıraş Köpüğü"
+    ],
+    "Göz Makyaj Temizleyici": [
+        "Göz & Dudak Bakım",
+        "Takma Kirpik",
+        "Göz Kalemi",
+        "Eyeliner",
+        "Maskara"
+    ],
+    "Temizleme Sütü": [
+        "Temizleme Köpüğü",
+        "Temizleme Jeli",
+        "Temizleme Suyu",
+        "Maskeler"
+    ],
+    "Wax": [
+        "Ağda Bantları",
+        "Ağda Malzemeleri",
+        "Roll-On Ağdalar",
+        "Kavanoz Ağdalar"
+    ],
+    "Dudak Kalemi": [
+        "Dudak Bakım",
+        "Ruj",
+        "Dudak Parlatıcısı"
+    ],
+    "Temizleme Suyu": [
+        "Temizleme Köpüğü",
+        "Temizleme Jeli",
+        "Temizleme Sütü",
+        "Maskeler"
+    ],
+    "Bebek Yağı": [
+        "Bebek Kolonyası",
+        "Bebek Şampuanı",
+        "Bebek Sabunu"
+    ],
+    "Temizleyici & Peeling": [
+        "Maskeler",
+        "Peeling",
+        "Temizleme Köpüğü"
+    ],
+    "Yedek Tıraş Bıçakları": [
+        "Kadın Tıraş Bıçakları",
+        "Tıraş Makinesi",
+        "Kullan At Tıraş Bıçakları"
+    ],
+    "Tıraş Kremi": [
+        "Tıraş Jeli",
+        "Tıraş Köpüğü",
+        "After Shave Losyon",
+        "After Shave Balsam"
+    ],
+    "Akne Bakım": [
+        "Serumlar",
+        "Nemlendirici Krem",
+        "Tonik",
+        "Leke Bakım Ürünleri"
+    ],
+    "Saç Boyama Malzemesi": [
+        "Kit Boyalar",
+        "Tüp Boyalar",
+        "Peroksitler",
+        "Natural Boyalar"
+    ],
+    "Pişik Kremi": [
+        "Bebek Yağı",
+        "Bebek Sabunu"
+    ],
+    "Çorap": [
+        "Slip",
+        "Külot"
+    ],
+    "Bigudiler": [
+        "Saç Spreyi",
+        "Saç Jölesi",
+        "Saç Köpüğü"
+    ],
+    "Tıraş Fırçaları": [
+        "Tıraş Jeli",
+        "Tıraş Köpüğü",
+        "Tıraş Kremi"
+    ],
+    "Genital Bölge Temizlik ve Bakım Ürünleri": [
+        "Cinsel Sağlık Ürünleri",
+        "Hijyenik Pedler",
+        "Günlük Pedler"
+    ],
+    "Bebek Sabunu": [
+        "Bebek Şampuanı",
+        "Bebek Yağı",
+        "Pişik Kremi"
+    ],
+    "Makyaj Sabitleyici": [
+        "Fondöten",
+        "Pudra",
+        "Makyaj Bazı"
+    ],
+    "Diş İpleri": [
+        "Diş Fırçaları",
+        "Diş Macunları",
+        "Ağız Suları"
+    ],
+    "Takma Tırnak": [
+        "Tırnak Bakım",
+        "Oje",
+        "Aseton"
+    ],
+    "Tüy Sarartıcılar": [
+        "Tüy Dökücüler",
+        "Ağda Bantları"
+    ],
+    "Tıraş Makinesi": [
+        "Kadın Tıraş Bıçakları",
+        "Yedek Tıraş Bıçakları",
+        "Kullan At Tıraş Bıçakları"
+    ],
+    "Selülit Ürünleri": [
+        "Vücut Yağı",
+        "Peeling",
+        "Nemlendirici Krem"
+    ],
+    "Saç Renk Açıcılar": [
+        "Beyaz Saç Kapatıcılar",
+        "Erkek Saç Boyaları"
+    ],
+    "Vücut Yağı": [
+        "Vücut Losyonu",
+        "Peeling",
+        "Selülit Ürünleri"
+    ],
+    "Saç Parfümü": [
+        "EDP Parfüm",
+        "EDT Parfüm",
+        "Kolonya",
+        "Oda Kokusu"
+    ],
+    "Tampon": [
+        "Hijyenik Pedler",
+        "Günlük Pedler"
+    ],
+    "Leke Bakım Ürünleri": [
+        "Akne Bakım",
+        "Serumlar",
+        "Nemlendirici Krem"
+    ],
+    "Vücut Şampuanı": [
+        "Duş Jelleri",
+        "Vücut Losyonu",
+        "Sıvı Sabun"
+    ],
+    "Body Lotion": [
+        "Vücut Losyonu",
+        "Vücut Yağı"
+    ],
+    "Erkek Saç Boyaları": [
+        "Beyaz Saç Kapatıcılar",
+        "Saç Renk Açıcılar"
+    ],
+    "Korse": [
+        "Sütyen",
+        "Külot"
+    ],
+    "Boxer": [
+        "Slip",
+        "Atlet"
+    ],
+    "Külot": [
+        "Sütyen",
+        "Korse"
+    ],
+    "Kombinezon": [
+        "Pijama",
+        "Gecelik"
+    ],
+    "Termal Giyim": [
+        "Fanila",
+        "Atlet"
+    ],
+    "Şort": [
+        "T-Shirt",
+        "Atlet"
+    ],
+    "Slip": [
+        "Boxer",
+        "Çorap"
+    ],
+    "Atlet": [
+        "Boxer",
+        "Termal Giyim",
+        "Şort"
+    ],
+    "Mayo": [
+        "Bikini Takımı"
+    ],
+    "Bikini Takımı": [
+        "Mayo"
+    ],
+    "Gecelik": [
+        "Kombinezon",
+        "Pijama"
+    ],
+    "T-Shirt": [
+        "Şort",
+        "Fanila"
+    ],
+    "Tayt": [
+        "Pijama",
+        "Fanila"
+    ],
+    "Pijama": [
+        "Gecelik",
+        "Kombinezon",
+        "Tayt"
+    ],
+    "Fanila": [
+        "Termal Giyim",
+        "T-Shirt",
+        "Tayt"
+    ],
+    "Erkek Çocuk Giyim": [
+        "Boxer",
+        "T-Shirt",
+        "Şort"
+    ]
+}
