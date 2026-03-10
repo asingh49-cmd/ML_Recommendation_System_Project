@@ -147,6 +147,6 @@ The notebooks should be run in the following order:
 - [Beste Karnibat](https://github.com/BesteKarnibat)
 - [a1b3r](https://github.com/a1b3r)
 - [JennyDong021](https://github.com/JennyDong021)
-- [JennyLee]
+- [JennyLee](https://github.com/jennylee0218)
 - [DannyMendoza]
 
