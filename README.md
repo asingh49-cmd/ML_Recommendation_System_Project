@@ -145,8 +145,8 @@ The notebooks should be run in the following order:
 
 - [Aditya (Adi) Singh](https://github.com/asingh49-cmd)
 - [Beste Karnibat](https://github.com/BesteKarnibat)
-- [a1b3r](https://github.com/a1b3r)
-- [JennyDong021](https://github.com/JennyDong021)
-- [JennyLee](https://github.com/jennylee0218)
-- [DannyMendoza]
+- [Alberto](https://github.com/a1b3r)
+- [Jenny Dong](https://github.com/JennyDong021)
+- [Jenny Lee](https://github.com/jennylee0218)
+- [Danny Mendoza](https://github.com/dannymendoza1)
 
